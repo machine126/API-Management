@@ -20,7 +20,7 @@
 	</backend>
 	<outbound>
 		<base />
-		<set-body>Success9</set-body>
+		<set-body>Success</set-body>
 	</outbound>
 	<on-error>
 		<base />
